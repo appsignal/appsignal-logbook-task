@@ -40,7 +40,7 @@
     "author": "Nicolas Chartiot",
     "type": "status_changed",
     "oldValue": "open",
-    "newValue": "close"
+    "newValue": "closed"
   },
   {
     "id": 7,
@@ -48,15 +48,15 @@
     "author": "Nicolas Chartiot",
     "type": "status_changed",
     "oldValue": "open",
-    "newValue": "close"
+    "newValue": "closed"
   },
   {
     "id": 8,
     "createdAt": "2022-03-17T13:46Z",
     "author": "Nicolas Chartiot",
     "type": "status_changed",
-    "oldValue": "open",
-    "newValue": "close"
+    "oldValue": "closed",
+    "newValue": "open"
   },
   {
     "id": 9,

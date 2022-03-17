@@ -1,14 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Getting Started
 
-## Getting Started
+## Install dependencies:
 
-First, run the development server:
+```bash
+yarn install
+```
+
+## First, run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
 ```
+
+## Check out the design at [Figma](https://www.figma.com/file/OhoKClnfD2iZEMpiJW9173/Errors?node-id=894%3A1347)
+
+---
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
