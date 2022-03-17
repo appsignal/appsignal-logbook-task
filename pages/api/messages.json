@@ -3,40 +3,75 @@
     "id": 1,
     "createdAt": "2022-03-17T13:40Z",
     "author": "Nicolas Chartiot",
-    "type": "message",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit ipsum sed ligula vestibulum bibendum at vitae dui. Etiam eleifend et magna et convallis. Suspendisse auctor est vel dui sodales aliquam. In sed scelerisque orci. Aenean dignissim leo risus, at laoreet elit scelerisque ut.",
-    "timestamp": ""
+    "type": "comment",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit ipsum sed ligula vestibulum bibendum at vitae dui. Etiam eleifend et magna et convallis. Suspendisse auctor est vel dui sodales aliquam. In sed scelerisque orci. Aenean dignissim leo risus, at laoreet elit scelerisque ut."
   },
   {
     "id": 2,
     "createdAt": "2022-03-17T13:41Z",
     "author": "Nicolas Chartiot",
-    "type": "message",
-    "content": "Donec id elementum neque, vitae sollicitudin urna. Vestibulum quis orci purus. Etiam rhoncus metus enim, id gravida metus finibus ac. Nam eget leo accumsan, imperdiet tellus in, egestas felis. Aenean molestie nisl nunc, eu eleifend lacus lacinia id.",
-    "timestamp": ""
+    "type": "comment",
+    "content": "Donec id elementum neque, vitae sollicitudin urna. Vestibulum quis orci purus. Etiam rhoncus metus enim, id gravida metus finibus ac. Nam eget leo accumsan, imperdiet tellus in, egestas felis. Aenean molestie nisl nunc, eu eleifend lacus lacinia id."
   },
   {
     "id": 3,
     "createdAt": "2022-03-17T13:42Z",
     "author": "Nicolas Chartiot",
-    "type": "message",
-    "content": "Nullam sed vestibulum ligula. Quisque tempor ligula non massa faucibus sagittis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-    "timestamp": ""
+    "type": "comment",
+    "content": "Nullam sed vestibulum ligula. Quisque tempor ligula non massa faucibus sagittis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
   },
   {
     "id": 4,
     "createdAt": "2022-03-17T13:49Z",
     "author": "Wes Oudshoorn",
-    "type": "message",
-    "content": "Morbi rhoncus, nibh in pulvinar hendrerit, velit diam interdum quam, id efficitur justo nisi sit amet libero. Praesent iaculis suscipit ligula. Curabitur neque lorem, suscipit sed cursus non, dignissim sit amet mi.",
-    "timestamp": ""
+    "type": "comment",
+    "content": "Morbi rhoncus, nibh in pulvinar hendrerit, velit diam interdum quam, id efficitur justo nisi sit amet libero. Praesent iaculis suscipit ligula. Curabitur neque lorem, suscipit sed cursus non, dignissim sit amet mi."
   },
   {
     "id": 5,
     "createdAt": "2022-03-17T13:43Z",
     "author": "Nicolas Chartiot",
-    "type": "message",
-    "content": "Sed metus lectus, pellentesque quis varius id, tempus at orci. Nam dictum diam velit, ut placerat massa rutrum vitae. Duis at enim iaculis, cursus sapien id, tristique ex. Nam hendrerit nisi ac dapibus ullamcorper. Mauris orci lectus, fringilla sit amet ligula eget, pretium consectetur sapien. Curabitur tempor efficitur fringilla.",
-    "timestamp": ""
+    "type": "comment",
+    "content": "Sed metus lectus, pellentesque quis varius id, tempus at orci. Nam dictum diam velit, ut placerat massa rutrum vitae. Duis at enim iaculis, cursus sapien id, tristique ex. Nam hendrerit nisi ac dapibus ullamcorper. Mauris orci lectus, fringilla sit amet ligula eget, pretium consectetur sapien. Curabitur tempor efficitur fringilla."
+  },
+  {
+    "id": 6,
+    "createdAt": "2022-03-17T13:44Z",
+    "author": "Nicolas Chartiot",
+    "type": "status_changed",
+    "oldValue": "open",
+    "newValue": "close"
+  },
+  {
+    "id": 7,
+    "createdAt": "2022-03-17T13:45Z",
+    "author": "Nicolas Chartiot",
+    "type": "status_changed",
+    "oldValue": "open",
+    "newValue": "close"
+  },
+  {
+    "id": 8,
+    "createdAt": "2022-03-17T13:46Z",
+    "author": "Nicolas Chartiot",
+    "type": "status_changed",
+    "oldValue": "open",
+    "newValue": "close"
+  },
+  {
+    "id": 9,
+    "createdAt": "2022-03-17T13:47Z",
+    "author": "Nicolas Chartiot",
+    "type": "assignee_changed",
+    "oldValue": "Nicolas",
+    "newValue": "Jeroen"
+  },
+  {
+    "id": 10,
+    "createdAt": "2022-03-17T13:48Z",
+    "author": "Nicolas Chartiot",
+    "type": "assignee_changed",
+    "oldValue": "Nicolas",
+    "newValue": "Jeroen"
   }
 ]
